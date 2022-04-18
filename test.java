@@ -28,6 +28,7 @@ public class test {
         int l = s.nextInt();
         System.out.println("enter the breadth\n");
         int b = s.nextInt();
+        System.out.println("enter the height\n");
         int h = s.nextInt();
         cube c = new cube(l, b);
         volume v = new volume(h);                                                                                                                                                                                                                                                                                                                                                                              
